@@ -1,8 +1,8 @@
 body {
-    background-image: url('https://www.vanessametonini.com.br/imersaocss/a1/img/fundo.jpg');
-    background-size: auto 100vh;
+    background-image: url("../img/fundo.jpg");
+    background-size: cover;
     font-family: Arial;
-    height: 100vh;
+
   }
   
   .menu {
@@ -23,7 +23,7 @@ body {
   }
   
   .menu li {
-    list-style: none
+    list-style: none;
   }
   
   .site-subtittle,
